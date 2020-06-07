@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi I'm your master
+Let's me see about your planet technology
